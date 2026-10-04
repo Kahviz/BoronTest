@@ -1,8 +1,5 @@
 ﻿#include "BoronTest.h"
 
-#include "include/expects.h"
-
-
 int main() {
 	std::cout << "Hello BoronTest!" << std::endl;
 
